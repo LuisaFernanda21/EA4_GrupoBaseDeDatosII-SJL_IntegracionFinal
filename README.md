@@ -26,4 +26,4 @@ Cómo usar
 2. Si usas PlantUML, instala PlantUML o usa un editor que lo renderice (VSCode + PlantUML extension) para exportar PNG del archivo `uml/star_schema.puml`.
 3. Para ejecutar los checks y ETL en Windows: abre PowerShell y adapta las variables al principio de los scripts en `etl/` y `scripts/`.
 
-Si me dices el motor de BD que usas (SQL Server, MySQL, PostgreSQL), ajusto los scripts de backup/ETL para ese motor y puedo ayudarte a volcar tus dumps en el repositorio.
+Si me dices el motor de BD que se usa es SQL Server
